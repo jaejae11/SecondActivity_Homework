@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Wed Jul 29 00:38:35 SGT 2020
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\USER\\Desktop\\android studio prac\\SecondActivity\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1
